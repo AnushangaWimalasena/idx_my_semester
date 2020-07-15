@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Semesters</string>
+    <string name="username_text">Username</string>
+    <string name="username_hint">Ex : eg16xxxx</string>
+    <string name="password_text">Password</string>
+    <string name="password_hint">Type your password here</string>
+    <string name="login_btn">Log in</string>
+    <string name="forget_password_txt">Forget password? Click here</string>
+    <string name="register_txt">Register now</string>
+
+
+    <string name="current_semester_txt">Current Semester</string>
+    <string name="current_semester_hint">Details about Current Semester</string>
+    <string name="previous_semester_txt">Previous Semesters</string>
+    <string name="previous_semester_hint">Details about Previous Semester</string>
+    <string name="semester_settings_txt">Profile</string>
+    <string name="semester_settings_hint">View your profile</string>
+    <string name="back">Back</string>
+
+
+    <string name="lectures_txt">Lecture Times</string>
+    <string name="assignment_txt">Assignments</string>
+    <string name="attendance_txt">Attendance</string>
+    <string name="extra_notes_txt">Extra Notes</string>
+
+    <string name="modules_txt">Modules</string>
+    <string name="total_credits">Total credits</string>
+    <string name="completed">Completed</string>
+    <string name="pending">Pending</string>
+
+    <string name="semester">Semester</string>
+    <string name="gpa">GPA</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="department">Department</string>
+    <string name="id">ID</string>
+
+    <string name="no_notes">No extra notes</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/lec_list_item"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_margin="15dp"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="3">
+        <ImageView
+            android:src="@drawable/library_books_icon"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="7"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/lec_date"
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_weight="1"
+            android:textSize="30sp"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/lec_time"
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_weight="1"
+            android:textSize="30sp"
+            android:gravity="center"/>
+    </LinearLayout>
+</LinearLayout>

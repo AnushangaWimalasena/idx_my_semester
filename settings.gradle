@@ -1,0 +1,2 @@
+rootProject.name='My Semesters'
+include ':app'
